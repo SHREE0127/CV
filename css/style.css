@@ -1,0 +1,18 @@
+ul{
+    list-style-type: disc;
+}
+body{
+    background-color: #EAF6f6;
+}
+hr{
+    border-style: dotted none none;
+    width: 10%;
+    border-width: 5px;
+    border-color: gray;
+}
+h3{
+    color: #66bfbf;
+}
+h1{
+    color: #66bfbf;
+}
